@@ -1,0 +1,22 @@
+PODS:
+  - Bolts/Tasks (1.2.0)
+  - Colours (5.6.2)
+  - MaryPopin (1.4.2)
+  - Parse (1.7.5.3):
+    - Bolts/Tasks (>= 1.2.0)
+  - pop (1.0.7)
+
+DEPENDENCIES:
+  - Colours
+  - MaryPopin
+  - Parse
+  - pop (~> 1.0)
+
+SPEC CHECKSUMS:
+  Bolts: d176cb1e0012175589e389a9db49b85e27787576
+  Colours: 0afd4c3429656880fd4cff350ca3bf0ab86ca348
+  MaryPopin: 24affc7fab9608dcad88279e32e774e5de5d54ac
+  Parse: 373adbb1ad2e34d383542c3b28f678c49ebe4881
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+
+COCOAPODS: 0.36.3
